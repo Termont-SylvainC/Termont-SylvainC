@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Termont-SylvainC
-- 👀 I’m interested in ... Groovy, C#, Power BI, Power Automate, SQL
+- 👀 I’m interested in ... Java/Groovy, C#, PHP, HTML, Power Automate/BI, SQL
 - 🌱 I’m currently learning ... PowerBI
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
